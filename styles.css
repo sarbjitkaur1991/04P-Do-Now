@@ -1,0 +1,32 @@
+.container{
+    display:flex;
+    justify-content:center;
+    border: 5px solid blue;
+    padding:10px;
+}
+
+
+
+
+
+
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: #00FFCC;
+}
+.yellow {
+    width: 100px;
+    height: 100px;
+    background-color: #FEE975;
+}
+.pink {
+    width: 100px;
+    height: 100px;
+    background-color: #E4A4EE;
+}
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: #17D3FF;
+}
